@@ -1,0 +1,514 @@
+
+
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?ipr2wp');
+  src:  url('../fonts/icomoon.eot?ipr2wp#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?ipr2wp') format('truetype'),
+    url('../fonts/icomoon.woff?ipr2wp') format('woff'),
+    url('../fonts/icomoon.svg?ipr2wp#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-orderdate:before {
+  content: "\e982";
+
+}
+.icon-orderno:before {
+  content: "\e983";
+ 
+}
+.icon-purchasearea:before {
+  content: "\e984";
+ 
+}
+.icon-right-arrow2:before {
+  content: "\e985";
+}
+.icon-totalprice:before {
+  content: "\e986";
+
+}
+.icon-Accountability:before {
+  content: "\e97a";
+   /* color: #e2af00; */
+}
+.icon-Accurate:before {
+  content: "\e97b";
+   /* color: #e2af00; */
+}
+.icon-Centralized:before {
+  content: "\e97c";
+   /* color: #e2af00; */
+}
+.icon-Collaboration:before {
+  content: "\e97d";
+   /* color: #e2af00; */
+}
+.icon-Efficient:before {
+  content: "\e97e";
+   /* color: #e2af00; */
+}
+.icon-Historical:before {
+  content: "\e97f";
+   /* color: #e2af00; */
+}
+.icon-Improved:before {
+  content: "\e980";
+   /* color: #e2af00; */
+}
+.icon-Transaction:before {
+  content: "\e981";
+   /* color: #e2af00; */
+}
+.icon-reader:before {
+  content: "\e979";
+}
+.icon-admin-console-new:before {
+  content: "\e96d";
+}
+.icon-auction-new:before {
+  content: "\e96e";
+}
+.icon-dashboard-new:before {
+  content: "\e96f";
+}
+.icon-grievance-new:before {
+  content: "\e970";
+}
+.icon-land-allotment-new:before {
+  content: "\e971";
+}
+.icon-land-services-new:before {
+  content: "\e972";
+}
+.icon-manage-master-data-new:before {
+  content: "\e973";
+}
+.icon-manage-users-new:before {
+  content: "\e974";
+}
+.icon-meeting-management-new:before {
+  content: "\e975";
+}
+.icon-pay-ground-rent-new:before {
+  content: "\e976";
+}
+.icon-pay-royality-new:before {
+  content: "\e977";
+}
+.icon-scanning-digitization-new:before {
+  content: "\e978";
+}
+.icon-AdminConsole-icon:before {
+  content: "\e958";
+}
+.icon-applied-icon:before {
+  content: "\e959";
+}
+.icon-approved-icon:before {
+  content: "\e95a";
+}
+.icon-auction-icon:before {
+  content: "\e95b";
+}
+.icon-dashboard-icon:before {
+  content: "\e95c";
+}
+.icon-file-time:before {
+  content: "\e95d";
+}
+.icon-filter-icon:before {
+  content: "\e95e";
+}
+.icon-grid-icon:before {
+  content: "\e95f";
+}
+.icon-grievance-icon:before {
+  content: "\e960";
+}
+.icon-home-icon:before {
+  content: "\e961";
+}
+.icon-landallotment-icon:before {
+  content: "\e962";
+}
+.icon-LandServices-icon:before {
+  content: "\e963";
+}
+.icon-managemasterdata:before {
+  content: "\e964";
+}
+.icon-manageusers-icon:before {
+  content: "\e965";
+}
+.icon-meetingmanagement:before {
+  content: "\e966";
+}
+.icon-MISreports:before {
+  content: "\e967";
+}
+.icon-noc-icon:before {
+  content: "\e968";
+}
+.icon-postallotmentservices:before {
+  content: "\e969";
+}
+.icon-quarry-icon:before {
+  content: "\e96a";
+}
+.icon-reject-icon:before {
+  content: "\e96b";
+}
+.icon-ScanningDigitization:before {
+  content: "\e96c";
+}
+.icon-area:before {
+  content: "\e950";
+  /* color: #e6775a; */
+}
+.icon-plots:before {
+  content: "\e951";
+  /* color: #5ab25d; */
+}
+.icon-khata:before {
+  content: "\e952";
+  /* color: #eca414; */
+}
+.icon-villages:before {
+  content: "\e953";
+  /* color: #00a9ca; */
+}
+.icon-tahasil:before {
+  content: "\e954";
+  /* color: #3a61cc; */
+}
+.icon-dist:before {
+  content: "\e955";
+  /* color: #fff; */
+}
+.icon-right-arrow:before {
+  content: "\e956";
+  color: #fff;
+}
+.icon-chat:before {
+  content: "\e957";
+  color: #fdca19;
+}
+.icon-eyeclose:before {
+  content: "\e94f";
+  color: #49b179;
+}
+.icon-admin:before {
+  content: "\e92c";
+}
+.icon-Approved:before {
+  content: "\e92d";
+}
+.icon-arrow-down:before {
+  content: "\e92e";
+}
+.icon-arrow-top:before {
+  content: "\e92f";
+}
+.icon-block:before {
+  content: "\e930";
+}
+.icon-calculator:before {
+  content: "\e931";
+}
+.icon-call:before {
+  content: "\e932";
+}
+.icon-close:before {
+  content: "\e933";
+}
+.icon-delete:before {
+  content: "\e934";
+}
+.icon-edit:before {
+  content: "\e935";
+}
+.icon-filter:before {
+  content: "\e936";
+}
+.icon-grid:before {
+  content: "\e937";
+}
+.icon-home:before {
+  content: "\e938";
+}
+.icon-info:before {
+  content: "\e939";
+}
+.icon-land:before {
+  content: "\e93a";
+}
+.icon-layer:before {
+  content: "\e93b";
+}
+.icon-line:before {
+  content: "\e93c";
+}
+.icon-list:before {
+  content: "\e93d";
+}
+.icon-management:before {
+  content: "\e93e";
+}
+.icon-map-7:before {
+  content: "\e93f";
+}
+.icon-map-icon:before {
+  content: "\e940";
+}
+.icon-menu-icon:before {
+  content: "\e941";
+}
+.icon-msg:before {
+  content: "\e942";
+}
+.icon-pending-2:before {
+  content: "\e943";
+}
+.icon-people:before {
+  content: "\e944";
+}
+.icon-phone:before {
+  content: "\e945";
+}
+.icon-plus:before {
+  content: "\e946";
+}
+.icon-refresh:before {
+  content: "\e947";
+}
+.icon-rejected:before {
+  content: "\e948";
+}
+.icon-scale:before {
+  content: "\e949";
+}
+.icon-show:before {
+  content: "\e94a";
+}
+.icon-time-clock:before {
+  content: "\e94b";
+}
+.icon-unblock:before {
+  content: "\e94c";
+}
+.icon-user-close:before {
+  content: "\e94d";
+}
+.icon-view:before {
+  content: "\e94e";
+}
+.icon-calender:before {
+  content: "\e926";
+  /* color: #666; */
+}
+.icon-citizen-services:before {
+  content: "\e927";
+  /* color: #666; */
+}
+.icon-dashboard:before {
+  content: "\e928";
+  /* color: #666; */
+}
+.icon-download:before {
+  content: "\e929";
+  /* color: #666; */
+}
+.icon-profile:before {
+  content: "\e92a";
+  /* color: #666; */
+}
+.icon-purchase-code:before {
+  content: "\e92b";
+  /* color: #666; */
+}
+.icon-apply-land:before {
+  content: "\e900";
+  /* color: #666; */
+}
+.icon-apply-NOC:before {
+  content: "\e901";
+  /* color: #666; */
+}
+.icon-arrow-right-circle:before {
+  content: "\e902";
+  /* color: #666; */
+}
+.icon-booking-bhakta:before {
+  content: "\e903";
+  /* color: #666; */
+}
+.icon-calls:before {
+  content: "\e904";
+  /* color: #666; */
+}
+.icon-centralized-icon .path1:before {
+  content: "\e905";
+  color: rgb(102, 102, 102);
+  opacity: 0.1;
+}
+.icon-centralized-icon .path2:before {
+  content: "\e906";
+  margin-left: -1em;
+  color: rgb(102, 102, 102);
+}
+.icon-centralized-icon .path3:before {
+  content: "\e907";
+  margin-left: -1em;
+  color: rgb(102, 102, 102);
+}
+.icon-centralized-icon .path4:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: rgb(102, 102, 102);
+}
+.icon-centralized-icon .path5:before {
+  content: "\e909";
+  margin-left: -1em;
+  color: rgb(102, 102, 102);
+}
+.icon-centralized-icon .path6:before {
+  content: "\e90a";
+  margin-left: -1em;
+  color: rgb(102, 102, 102);
+}
+.icon-centralized-icon .path7:before {
+  content: "\e90b";
+  margin-left: -1em;
+  color: rgb(102, 102, 102);
+}
+.icon-centralized-icon .path8:before {
+  content: "\e90c";
+  margin-left: -1em;
+  color: rgb(102, 102, 102);
+}
+.icon-centralized-icon .path9:before {
+  content: "\e90d";
+  margin-left: -1em;
+  color: rgb(102, 102, 102);
+}
+.icon-centralized-icon .path10:before {
+  content: "\e90e";
+  margin-left: -1em;
+  color: rgb(102, 102, 102);
+}
+.icon-centralized-icon .path11:before {
+  content: "\e90f";
+  margin-left: -1em;
+  color: rgb(102, 102, 102);
+}
+.icon-centralized-icon .path12:before {
+  content: "\e910";
+  margin-left: -1em;
+  color: rgb(102, 102, 102);
+}
+.icon-centralized-icon .path13:before {
+  content: "\e911";
+  margin-left: -1em;
+  color: rgb(102, 102, 102);
+}
+.icon-centralized-icon .path14:before {
+  content: "\e912";
+  margin-left: -1em;
+  color: rgb(102, 102, 102);
+}
+.icon-centralized-icon .path15:before {
+  content: "\e913";
+  margin-left: -1em;
+  color: rgb(102, 102, 102);
+}
+.icon-centralized-icon .path16:before {
+  content: "\e914";
+  margin-left: -1em;
+  color: rgb(102, 102, 102);
+}
+.icon-centralized-icon .path17:before {
+  content: "\e915";
+  margin-left: -1em;
+  color: rgb(102, 102, 102);
+}
+.icon-chat1:before {
+  content: "\e916";
+  /* color: #666; */
+}
+.icon-disabilities:before {
+  content: "\e917";
+  /* color: #666; */
+}
+.icon-districts:before {
+  content: "\e918";
+  /* color: #666; */
+}
+.icon-encroachment:before {
+  content: "\e919";
+  /* color: #666; */
+}
+.icon-location-green:before {
+  content: "\e91a";
+  /* color: #666; */
+}
+.icon-lord-Jagannath:before {
+  content: "\e91b";
+  /* color: #666; */
+}
+.icon-mails:before {
+  content: "\e91c";
+  /* color: #666; */
+}
+.icon-moon:before {
+  content: "\e91d";
+  /* color: #666; */
+}
+.icon-pay-ground-rent:before {
+  content: "\e91e";
+  /* color: #666; */
+}
+.icon-pay-royality:before {
+  content: "\e91f";
+  /* color: #666; */
+}
+.icon-right-arrow1:before {
+  content: "\e920";
+  /* color: #666; */
+}
+.icon-smartphone:before {
+  content: "\e921";
+  /* color: #666; */
+}
+.icon-start:before {
+  content: "\e922";
+  /* color: #666; */
+}
+.icon-tehsil:before {
+  content: "\e923";
+  /* color: #666; */
+}
+.icon-temple:before {
+  content: "\e924";
+  /* color: #666; */
+}
+.icon-village:before {
+  content: "\e925";
+  /* color: #666; */
+}
